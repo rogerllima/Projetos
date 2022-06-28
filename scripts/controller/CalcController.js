@@ -41,7 +41,7 @@ class CalcController {
 
         this._operation = [];
 
-        this.setLastNumberToDisplay();
+        this.displayCalc = "0";
 
 
     }
